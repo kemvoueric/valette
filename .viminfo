@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1612371359,,"wq"
+|2,0,1612667609,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  102  0  ~/jenkins.sh
-|4,48,102,0,1612371359,"~/jenkins.sh"
+'0  9  11  ~/laser
+|4,48,9,11,1612667609,"~/laser"
+'1  102  0  ~/jenkins.sh
+|4,49,102,0,1612371359,"~/jenkins.sh"
 
 # Jumplist (newest first):
+-'  9  11  ~/laser
+|4,39,9,11,1612667609,"~/laser"
+-'  1  0  ~/laser
+|4,39,1,0,1612667599,"~/laser"
+-'  102  0  ~/jenkins.sh
+|4,39,102,0,1612371359,"~/jenkins.sh"
 -'  102  0  ~/jenkins.sh
 |4,39,102,0,1612371359,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
 |4,39,1,0,1612371297,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1612371297,"~/jenkins.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/laser
+	*	1612667607	0
+	"	9	11
+	^	9	12
+	.	9	11
+	+	9	11
 
 > ~/jenkins.sh
 	*	1612371357	0
